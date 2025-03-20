@@ -1,3 +1,3 @@
 # Organization management repository
 
-[Organization profile](https://github.com/MarioInf-Master-CompuerScience-UCM)
+[Organization profile](https://github.com/MarioInf-Phd-ComputerScience-UCM)
